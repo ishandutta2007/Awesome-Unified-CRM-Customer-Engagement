@@ -6,11 +6,13 @@
 
 # 🚀 Awesome Unified CRM & Customer Engagement
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badgeAwesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Unified-CRM-Customer-Engagement/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-CRM-Customer-Engagement/graphs/commit-activity)
 [![Topics](https://img.shields.io/badge/Topics-CRM%20%7C%20Customer%20Engagement-blue.svg)](#-table-of-contents)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated list of top Unified CRM and Customer Engagement platforms** — featuring both market-leading SaaS/Hosted enterprise suites and powerful self-hosted open-source alternatives for managing sales pipelines, marketing automation, omnichannel communications, and 360-degree customer relationships on a unified platform.
 >
@@ -30,6 +32,8 @@
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🔍 SEO & Keywords Guide](#-seo--keywords-guide)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -290,6 +294,24 @@ Contributions are warmly encouraged! 🎉 If you know of an outstanding open-sou
 3. 📝 Add your entry with project links, license, technology stack, and distinct capabilities.
 4. 🌟 Ensure the software is actively maintained (active releases or commits within the last 12 months).
 5. 🚀 Submit your Pull Request for review!
+
+---
+
+## 💖 Support
+
+Thank you so much for using and exploring this curated list! If this guide helped you discover an awesome CRM, customer engagement platform, or marketing automation tool, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with your developer community, colleagues, and friends.
+- ☕ **Buy a coffee & sponsor development:** Support continuous research and maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support and contributions keep this directory fresh, accurate, and valuable for everyone in the open-source community! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Unified-CRM-Customer-Engagement&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Unified-CRM-Customer-Engagement&type=date&legend=top-left)
 
 ---
 
