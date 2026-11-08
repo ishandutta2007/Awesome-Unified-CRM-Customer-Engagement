@@ -27,7 +27,7 @@
   - [📊 SaaS Platforms Comparison & Financial Scale](#-saas-platforms-comparison--financial-scale)
   - [🏢 SaaS Product Deep Dives](#-saas-product-deep-dives)
 - [🟩 Open-Source Software](#-open-source-software)
-  - [⭐ Open-Source Software Ranked by GitHub Stars](#-open-source-software-ranked-by-github-stars)
+  - [⭐ Open-Source Software Ranked by GitHub_Stars](#-open-source-software-ranked-by-github-stars)
   - [💻 Open-Source Project Deep Dives](#-open-source-project-deep-dives)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🔍 SEO & Keywords Guide](#-seo--keywords-guide)
@@ -127,11 +127,11 @@ Commercial, cloud-hosted Unified CRM and Customer Engagement platforms. These en
 
 Self-hosted, transparent, and community-driven Unified CRM, Customer Data Platforms (CDP), and Customer Engagement tools. These projects eliminate per-seat SaaS licensing fees while offering complete control over privacy, relational databases, and code extensibility.
 
-### ⭐ Open-Source Software Ranked by GitHub Stars
+### ⭐ Open-Source Software Ranked by GitHub_Stars
 
-*Sorted in descending order by community GitHub star count. Star badges link directly to each project's stargazers community.*
+*Sorted in descending order by community GitHub Stars_Count. Stars_Badges link directly to each project's stargazers community.*
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 🛠️ Tech Stack | 📜 License | 💡 Architecture & Key Strengths |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📜 License | 💡 Architecture & Key Strengths |
 | :--- | :--- | :--- | :--- | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, NestJS, React, PostgreSQL | AGPL-3.0 / MIT | Modern open-source Salesforce rival; metadata-as-code, GraphQL/REST APIs, AI agents |
 | **[novuhq/novu](https://github.com/novuhq/novu)** | [![Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | TypeScript, Node.js, React, Redis | MIT | Complete open-source customer notification infrastructure (Email, SMS, Push, In-App, Chat) |
